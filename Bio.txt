@@ -1,0 +1,4 @@
+Ad : "Aysu"
+Soyad : "Tağıyeva"
+Yaş : "19"
+Qrup : "PB202"
